@@ -1,0 +1,10 @@
+12:19:19 **** Incremental Build of configuration Debug for project AdM-PrimerProyecto ****
+make -j16 all 
+arm-none-eabi-size   AdM-PrimerProyecto.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8464	     20	   1636	  10120	   2788	AdM-PrimerProyecto.elf
+Finished building: default.size.stdout
+ 
+
+12:19:20 Build Finished. 0 errors, 0 warnings. (took 184ms)
+

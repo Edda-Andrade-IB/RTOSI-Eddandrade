@@ -1,0 +1,10 @@
+00:10:10 **** Incremental Build of configuration Debug for project Eddandrade-RTOSI-EstacionamientoFINAL ****
+make -j16 all 
+arm-none-eabi-size   Eddandrade-RTOSI-EstacionamientoFINAL.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28860	    200	  18632	  47692	   ba4c	Eddandrade-RTOSI-EstacionamientoFINAL.elf
+Finished building: default.size.stdout
+ 
+
+00:10:10 Build Finished. 0 errors, 0 warnings. (took 238ms)
+

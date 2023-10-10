@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Eddandrade-RTOSI-EstacionamientoFINAL/Eddandrade-RTOSI-Estacionamiento.ioc&apos; to &apos;Eddandrade-RTOSI-EstacionamientoFINAL.ioc&apos;" description="Rename resource &apos;Eddandrade-RTOSI-Estacionamiento.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Eddandrade-RTOSI-Estacionamiento.ioc" name="Eddandrade-RTOSI-EstacionamientoFINAL.ioc" stamp="1696889997248" updateReferences="true"/>
+</session>
